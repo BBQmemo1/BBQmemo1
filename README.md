@@ -30,9 +30,3 @@ I'm transitioning from the kitchen to **Web Development**, bringing the same pas
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-<div align="center">
-  
-###  "Code, Coffee, Repeat"
-
-</div>
