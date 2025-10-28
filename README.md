@@ -1,4 +1,4 @@
-# Hi there! I'm @BBQmemo1 👋
+# Hi, I'm @BBQmemo1 👋
 
 ## About Me
 
